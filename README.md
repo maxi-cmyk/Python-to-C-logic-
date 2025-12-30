@@ -1,9 +1,9 @@
-# PythonLogic-to-C Bridge 🚀
+# PythonLogic-to-C Bridge 
 This repo stores my LeetCode solutions in Python, with specific 
 notes on how to implement the same logic using C pointers and 
 manual memory management.
 
-🧠 Algorithm Patterns
+- Algorithm Patterns
 
 Two Pointers
 
@@ -23,7 +23,7 @@ Greedy / Sliding Window
 
 [x] 0121_best_time_to_buy_sell_stock.py (Min/Max tracking)
 
-🏗️ Data Structures
+- Data Structures
 
 Arrays & Strings
 
