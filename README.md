@@ -1,4 +1,4 @@
-# PythonLogic-to-C Bridge 
+# Python Logic-to-C Bridge 
 This repo stores my LeetCode solutions in Python, with specific 
 notes on how to implement the same logic using C pointers and 
 manual memory management.
