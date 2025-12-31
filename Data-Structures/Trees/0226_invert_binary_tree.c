@@ -1,3 +1,15 @@
+// Practice for: 0226_invert_binary_tree.py
+// Bridge logic from Python to C pointers here.
+
+#include <stdio.h>
+#include <stdlib.h>
+
+struct TreeNode {
+    int val;
+    struct TreeNode *left;
+    struct TreeNode *right;
+};
+
 struct TreeNode* invertTree(struct TreeNode* root) {
     // 1. Base Case
     if (root == NULL) {

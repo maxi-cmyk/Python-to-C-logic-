@@ -1,3 +1,5 @@
+#binary_search
+
 class Solution:
     def mySqrt(self, x: int) -> int:
         #brute force 

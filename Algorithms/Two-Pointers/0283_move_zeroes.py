@@ -1,3 +1,5 @@
+#two_pointers
+
 class Solution:
     def moveZeroes(self, nums: list[int]) -> None:
         #swapping values 
@@ -26,3 +28,4 @@ for case in test_cases:
     original = case[:]
     sol.moveZeroes(case)
     print(f"Original: {original} -> Result: {case}")
+

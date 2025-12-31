@@ -1,4 +1,7 @@
-//ned to malloc the new list 
+// Practice for: 0002_add_two_numbers.py
+// Bridge logic from Python to C pointers here.
+
+//need to malloc the new list 
 #include <stdio.h> 
 #include <stdlib.h> 
 
@@ -44,4 +47,5 @@ struct ListNode *addTwoNumbers(struct ListNode *l1, struct ListNode *l2) {
 
     }
 }
+
 

@@ -1,3 +1,6 @@
+// Practice for: 0283_move_zeroes.py
+// Bridge logic from Python to C pointers here.
+
 #include <stdio.h>
 
 void moveZeroes(int* nums, int numsSize) {
@@ -8,18 +11,17 @@ void moveZeroes(int* nums, int numsSize) {
     for (int right = 0; right < numsSize; right++) {
         if (nums[right] != 0) {
             // THE C SWAP: nums[left], nums[right] = nums[right], nums[left]
-            // We use a temporary variable to hold the value
+            // need to use a temp in C 
             int temp = nums[left];
             nums[left] = nums[right];
             nums[right] = temp;
 
-            // Move the non-zero boundary forward
+            //move fwd 
             left++;
         }
     }
 }
 
-//test
 int main() {
     int arr[] = {0, 1, 0, 3, 12};
     int size = 5;
