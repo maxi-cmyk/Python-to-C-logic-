@@ -12,7 +12,9 @@ TAG_MAPPING = {
     "arrays": "Data-Structures/Arrays",
     "greedy": "Algorithms/Greedy",
     "sliding_window": "Algorithms/Sliding-Window",
-    "math":"Algorithms/Math"
+    "math":"Algorithms/Math",
+    "backtracking":"Algorithms/Backtracking",
+    "stack":"Data-Structures/Stack"
 }
 
 # Files to ignore
