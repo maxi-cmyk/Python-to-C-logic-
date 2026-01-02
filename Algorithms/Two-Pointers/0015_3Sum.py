@@ -19,7 +19,7 @@ class Solution:
                     k -= 1
                 else: 
                     res.append([nums[i], nums[j], nums[k]])
-                    j += 1
+                    j += 1 
                     while j < k and nums[j] == nums[j-1]: #have to skip duplicates!
                         j += 1
         return res
