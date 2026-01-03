@@ -30,3 +30,20 @@ class Solution:
 
         findNSum(0, len(nums) - 1, target, 4, [])
         return results
+
+def test_4sum():
+    sol = Solution()
+    
+    # Case 1: Standard case with zero target
+    assert sol.fourSum([1, 0, -1, 0, -2, 2], 0) == [[-2,-1,1,2], [-2,0,0,2], [-1,0,0,1]]
+    
+    # Case 2: All same numbers
+    assert sol.fourSum([2, 2, 2, 2, 2], 8) == [[2, 2, 2, 2]]
+    
+    # Case 3: Large Target (Testing your sum logic)
+    assert sol.fourSum([1000000000, 1000000000, 1000000000, 1000000000], 4000000000) == [[1000000000]*4]
+    
+    # Case 4: Not enough elements
+    assert sol.fourSum([1, 2, 3], 0) == []
+
+    print("✅ Python 4Sum tests passed!")
