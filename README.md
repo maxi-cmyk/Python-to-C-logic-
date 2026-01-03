@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 19/50
-`███████░░░░░░░░░░░░░` 38.0%
+### 📈 Progress: 21/50
+`████████░░░░░░░░░░░░` 42.0%
 
 ## 📚 Problem Library
 
@@ -22,6 +22,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0018 | 4Sum | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0018_4sum.py) | [C](Algorithms/Two-Pointers/0018_4sum.c) |
 | 0020 | Valid Paranthesis | Data-Structures/Stack | [Python](Data-Structures/Stack/0020_valid_paranthesis.py) | [C](Data-Structures/Stack/0020_valid_paranthesis.c) |
 | 0021 | Merge Two Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0021_merge_two_linked_list.py) | [C](Data-Structures/Linked-Lists/0021_merge_two_linked_list.c) |
+| 0022 | Generate Paranthesis | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0022_generate_paranthesis.py) | [C](Algorithms/Backtracking/0022_generate_paranthesis.c) |
+| 0024 | Swap Node Pairs | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0024_swap_node_pairs.py) | [C](Data-Structures/Linked-Lists/0024_swap_node_pairs.c) |
 | 0029 | Divide Two Numbers | Algorithms/Math | [Python](Algorithms/Math/0029_divide_two_numbers.py) | [C](Algorithms/Math/0029_divide_two_numbers.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
