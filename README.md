@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 21/50
-`████████░░░░░░░░░░░░` 42.0%
+### 📈 Progress: 23/50
+`█████████░░░░░░░░░░░` 46.0%
 
 ## 📚 Problem Library
 
@@ -25,6 +25,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0022 | Generate Paranthesis | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0022_generate_paranthesis.py) | [C](Algorithms/Backtracking/0022_generate_paranthesis.c) |
 | 0024 | Swap Node Pairs | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0024_swap_node_pairs.py) | [C](Data-Structures/Linked-Lists/0024_swap_node_pairs.c) |
 | 0029 | Divide Two Numbers | Algorithms/Math | [Python](Algorithms/Math/0029_divide_two_numbers.py) | [C](Algorithms/Math/0029_divide_two_numbers.c) |
+| 0031 | Next Permutations | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0031_next_permutations.py) | [C](Algorithms/Two-Pointers/0031_next_permutations.c) |
+| 0034 | First And Last Position | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0034_first_and_last_position.py) | [C](Algorithms/Binary-Search/0034_first_and_last_position.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
