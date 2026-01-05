@@ -15,7 +15,8 @@ TAG_MAPPING = {
     "math":"Algorithms/Math",
     "backtracking":"Algorithms/Backtracking",
     "stack":"Data-Structures/Stack",
-    "matrix_manipulation": "Data-Structures/Matrix-Manipulation"
+    "matrix_manipulation": "Data-Structures/Matrix-Manipulation",
+    "hashing":"Data=Structures"
 }
 
 # Files to ignore

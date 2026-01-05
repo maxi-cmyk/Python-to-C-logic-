@@ -1,4 +1,4 @@
-// Practice for: 0036_valid_sudoku.py
+// Practice for: 0048_rotate_image.py
 // Bridge logic from Python to C pointers here.
 
 #include <stdio.h>

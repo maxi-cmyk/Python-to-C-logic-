@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 25/50
-`██████████░░░░░░░░░░` 50.0%
+### 📈 Progress: 27/50
+`██████████░░░░░░░░░░` 54.0%
 
 ## 📚 Problem Library
 
@@ -29,6 +29,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0033 | Search Rotated Array | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0033_search_rotated_array.py) | [C](Algorithms/Binary-Search/0033_search_rotated_array.c) |
 | 0034 | First And Last Position | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0034_first_and_last_position.py) | [C](Algorithms/Binary-Search/0034_first_and_last_position.c) |
 | 0036 | Valid Sudoku | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0036_valid_sudoku.py) | [C](Data-Structures/Matrix-Manipulation/0036_valid_sudoku.c) |
+| 0048 | Rotate Image | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0048_rotate_image.py) | [C](Data-Structures/Matrix-Manipulation/0048_rotate_image.c) |
+| 0049 | Group Anagrams | Data=Structures | [Python](Data=Structures/0049_group_anagrams.py) | [C](Data=Structures/0049_group_anagrams.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
