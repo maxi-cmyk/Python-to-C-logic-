@@ -14,7 +14,8 @@ TAG_MAPPING = {
     "sliding_window": "Algorithms/Sliding-Window",
     "math":"Algorithms/Math",
     "backtracking":"Algorithms/Backtracking",
-    "stack":"Data-Structures/Stack"
+    "stack":"Data-Structures/Stack",
+    "matrix_manipulation": "Data-Structures/Matrix-Manipulation"
 }
 
 # Files to ignore
