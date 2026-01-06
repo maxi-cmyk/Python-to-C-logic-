@@ -1,0 +1,23 @@
+#RLE
+#two_pointers
+class Solution:
+    def countAndSay(self, n: int) -> str:
+        res = "1" #base case 
+        for _ in range (n-1):
+            next_res = []
+            i = 0
+            
+            while i < len(res):
+                count = 1
+                while i + 1 < len(res) and res[i] == res[i+1]:
+                    i += 1
+                    count += 1 #add repeats
+
+                next_res.append(str(count))
+                next_res.append(res[i])
+                i+=1
+            res = "".join(next_res)
+        return res
+
+
+        
