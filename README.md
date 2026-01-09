@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 34/50
-`█████████████░░░░░░░` 68.0%
+### 📈 Progress: 35/50
+`██████████████░░░░░░` 70.0%
 
 ## 📚 Problem Library
 
@@ -33,6 +33,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0039 | Combination Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0039_combination_sum.py) | [C](Algorithms/Backtracking/0039_combination_sum.c) |
 | 0040 | Combination Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0040_combination_sum_II.py) | [C](Algorithms/Backtracking/0040_combination_sum_II.c) |
 | 0046 | Permutations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0046_permutations.py) | [C](Algorithms/Backtracking/0046_permutations.c) |
+| 0047 | Permutations Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0047_permutations_II.py) | [C](Algorithms/Backtracking/0047_permutations_II.c) |
 | 0048 | Rotate Image | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0048_rotate_image.py) | [C](Data-Structures/Matrix-Manipulation/0048_rotate_image.c) |
 | 0049 | Group Anagrams | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0049_group_anagrams.py) | [C](Data-Structures/Hashing/0049_group_anagrams.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
