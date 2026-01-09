@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 32/50
-`████████████░░░░░░░░` 64.0%
+### 📈 Progress: 34/50
+`█████████████░░░░░░░` 68.0%
 
 ## 📚 Problem Library
 
@@ -32,11 +32,13 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0038 | Count And Say | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0038_count_and_say.py) | [C](Algorithms/Two-Pointers/0038_count_and_say.c) |
 | 0039 | Combination Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0039_combination_sum.py) | [C](Algorithms/Backtracking/0039_combination_sum.c) |
 | 0040 | Combination Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0040_combination_sum_II.py) | [C](Algorithms/Backtracking/0040_combination_sum_II.c) |
+| 0046 | Permutations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0046_permutations.py) | [C](Algorithms/Backtracking/0046_permutations.c) |
 | 0048 | Rotate Image | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0048_rotate_image.py) | [C](Data-Structures/Matrix-Manipulation/0048_rotate_image.c) |
 | 0049 | Group Anagrams | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0049_group_anagrams.py) | [C](Data-Structures/Hashing/0049_group_anagrams.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
+| 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
