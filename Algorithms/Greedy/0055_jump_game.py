@@ -1,6 +1,6 @@
 #greedy
 class Solution:
-    def canJump(self, nums: List[int]) -> bool:
+    def canJump(self, nums) -> bool:
         goal = len(nums) - 1
         #iterate from back 
         for i in range(len(nums) - 2, -1, -1):
