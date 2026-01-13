@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 38/50
-`███████████████░░░░░` 76.0%
+### 📈 Progress: 40/50
+`████████████████░░░░` 80.0%
 
 ## 📚 Problem Library
 
@@ -39,6 +39,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0048 | Rotate Image | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0048_rotate_image.py) | [C](Data-Structures/Matrix-Manipulation/0048_rotate_image.c) |
 | 0049 | Group Anagrams | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0049_group_anagrams.py) | [C](Data-Structures/Hashing/0049_group_anagrams.c) |
 | 0050 | Pow(X,N) | Algorithms/Math | [Python](Algorithms/Math/0050_pow(x,n).py) | [C](Algorithms/Math/0050_pow(x,n).c) |
+| 0053 | Max Subarray | Algorithms/Greedy | [Python](Algorithms/Greedy/0053_max_subArray.py) | [C](Algorithms/Greedy/0053_max_subArray.c) |
+| 0054 | Spiral Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0054_spiral_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0054_spiral_matrix.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
