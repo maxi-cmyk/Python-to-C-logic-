@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 44/50
-`█████████████████░░░` 88.0%
+### 📈 Progress: 46/50
+`██████████████████░░` 92.0%
 
 ## 📚 Problem Library
 
@@ -45,6 +45,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0056 | Merge Intervals | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0056_merge_intervals.py) | [C](Algorithms/Two-Pointers/0056_merge_intervals.c) |
 | 0057 | Insert Interval | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0057_insert_interval.py) | [C](Algorithms/Two-Pointers/0057_insert_interval.c) |
 | 0059 | Generatematrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0059_generateMatrix.py) | [C](Data-Structures/Matrix-Manipulation/0059_generateMatrix.c) |
+| 0061 | Rotate List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0061_rotate_list.py) | [C](Data-Structures/Linked-Lists/0061_rotate_list.c) |
+| 0062 | Unique Paths | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0062_unique_paths.py) | [C](Algorithms/Backtracking/0062_unique_paths.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
