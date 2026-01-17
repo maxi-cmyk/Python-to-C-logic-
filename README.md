@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 49/50
-`███████████████████░` 98.0%
+### 📈 Progress: 50/50
+`████████████████████` 100.0%
 
 ## 📚 Problem Library
 
@@ -51,6 +51,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0064 | Min Path Sum | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0064_min_path_sum.py) | [C](Algorithms/Dynamic-Programming/0064_min_path_sum.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0073 | Set Matrix Zero | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0073_set_matrix_zero.py) | [C](Algorithms/Dynamic-Programming/0073_set_matrix_zero.c) |
+| 0074 | Search 2D Array | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0074_search_2D_array.py) | [C](Algorithms/Binary-Search/0074_search_2D_array.c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
