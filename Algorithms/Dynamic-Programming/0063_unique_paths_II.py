@@ -1,4 +1,4 @@
-#matrix_manipulation
+#dynamic_programming
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         #if grid[m][n] == 1, cannot

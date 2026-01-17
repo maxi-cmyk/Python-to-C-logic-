@@ -47,8 +47,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0059 | Generatematrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0059_generateMatrix.py) | [C](Data-Structures/Matrix-Manipulation/0059_generateMatrix.c) |
 | 0061 | Rotate List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0061_rotate_list.py) | [C](Data-Structures/Linked-Lists/0061_rotate_list.c) |
 | 0062 | Unique Paths | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0062_unique_paths.py) | [C](Algorithms/Backtracking/0062_unique_paths.c) |
-| 0063 | Unique Paths Ii | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0063_unique_paths_II.py) | [C](Data-Structures/Matrix-Manipulation/0063_unique_paths_II.c) |
-| 0064 | Min Path Sum | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0064_min_path_sum.py) | [C](Data-Structures/Matrix-Manipulation/0064_min_path_sum.c) |
+| 0063 | Unique Paths Ii | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0063_unique_paths_II.py) | [C](Algorithms/Dynamic-Programming/0063_unique_paths_II.c) |
+| 0064 | Min Path Sum | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0064_min_path_sum.py) | [C](Algorithms/Dynamic-Programming/0064_min_path_sum.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
