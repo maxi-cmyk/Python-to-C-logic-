@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 50/50
+### 📈 Progress: 51/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -58,5 +58,6 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
+| 0240 | Search 2D Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.c) |
 | 0283 | Move Zeroes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0283_move_zeroes.py) | [C](Algorithms/Two-Pointers/0283_move_zeroes.c) |
 | 0443 | String Compression | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0443_string_compression.py) | [C](Algorithms/Two-Pointers/0443_string_compression.c) |
