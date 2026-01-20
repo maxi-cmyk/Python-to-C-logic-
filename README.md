@@ -15,7 +15,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0005 | Longest Palindrome Substring | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0005_longest_palindrome_substring.py) | [C](Algorithms/Sliding-Window/0005_longest_palindrome_substring.c) |
 | 0007 | Reverse Integer | Algorithms/Math | [Python](Algorithms/Math/0007_reverse_integer.py) | [C](Algorithms/Math/0007_reverse_integer.c) |
 | 0008 | Myatoi | Algorithms/Math | [Python](Algorithms/Math/0008_myAtoi.py) | [C](Algorithms/Math/0008_myAtoi.c) |
-| 0009 | Reverse Integer | Algorithms/Math | [Python](Algorithms/Math/0009_reverse_integer.py) | [C](Algorithms/Math/0009_reverse_integer.c) |
+| 0009 | Is Palindrome | Algorithms/Math | [Python](Algorithms/Math/0009_is_palindrome.py) | [C](Algorithms/Math/0009_is_palindrome.c) |
 | 0015 | 3Sum | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0015_3Sum.py) | [C](Algorithms/Two-Pointers/0015_3Sum.c) |
 | 0016 | 3Sum Closest | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0016_3Sum_closest.py) | [C](Algorithms/Two-Pointers/0016_3Sum_closest.c) |
 | 0017 | Letter Phone Number | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0017_letter_phone_number.py) | [C](Algorithms/Backtracking/0017_letter_phone_number.c) |
