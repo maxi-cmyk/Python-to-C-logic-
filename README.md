@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 52/50
+### 📈 Progress: 53/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -16,6 +16,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0007 | Reverse Integer | Algorithms/Math | [Python](Algorithms/Math/0007_reverse_integer.py) | [C](Algorithms/Math/0007_reverse_integer.c) |
 | 0008 | Myatoi | Algorithms/Math | [Python](Algorithms/Math/0008_myAtoi.py) | [C](Algorithms/Math/0008_myAtoi.c) |
 | 0009 | Is Palindrome | Algorithms/Math | [Python](Algorithms/Math/0009_is_palindrome.py) | [C](Algorithms/Math/0009_is_palindrome.c) |
+| 0011 | Container Max Area | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0011_container_max_area.py) | [C](Algorithms/Two-Pointers/0011_container_max_area.c) |
 | 0015 | 3Sum | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0015_3Sum.py) | [C](Algorithms/Two-Pointers/0015_3Sum.c) |
 | 0016 | 3Sum Closest | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0016_3Sum_closest.py) | [C](Algorithms/Two-Pointers/0016_3Sum_closest.c) |
 | 0017 | Letter Phone Number | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0017_letter_phone_number.py) | [C](Algorithms/Backtracking/0017_letter_phone_number.c) |
