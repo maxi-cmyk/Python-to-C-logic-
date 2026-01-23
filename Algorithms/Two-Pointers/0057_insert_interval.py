@@ -6,12 +6,12 @@ class Solution:
         res = []
 
         i = 0
-        #add all intervals before newInterval
+        #add all intervals before new interval
         while i < n and intervals[i][1] < newInterval[0]:
             res.append(intervals[i])
             i+=1
 
-        #merge all overlapping intervals before newInterval ends
+        #merge all overlapping intervals before new interval ends
         while i < n and intervals[i][0] <= newInterval[1]:
             newInterval[0] = min(newInterval[0], intervals[i][0])
             newInterval[1] = max(newInterval[1], intervals[i][1])
