@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 56/50
+### 📈 Progress: 58/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -56,6 +56,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0072 | Edit Distance | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0072_edit_distance.py) | [C](Algorithms/Dynamic-Programming/0072_edit_distance.c) |
 | 0073 | Set Matrix Zero | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0073_set_matrix_zero.py) | [C](Algorithms/Dynamic-Programming/0073_set_matrix_zero.c) |
 | 0074 | Search 2D Array | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0074_search_2D_array.py) | [C](Algorithms/Binary-Search/0074_search_2D_array.c) |
+| 0075 | Sort Colors | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0075_sort_colors.py) | [C](Algorithms/Two-Pointers/0075_sort_colors.c) |
+| 0076 | Word Search | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0076_word_search.py) | [C](Algorithms/Backtracking/0076_word_search.c) |
 | 0077 | Combinations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0077_combinations.py) | [C](Algorithms/Backtracking/0077_combinations.c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
