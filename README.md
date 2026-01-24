@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 54/50
+### 📈 Progress: 55/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -52,6 +52,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0063 | Unique Paths Ii | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0063_unique_paths_II.py) | [C](Algorithms/Dynamic-Programming/0063_unique_paths_II.c) |
 | 0064 | Min Path Sum | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0064_min_path_sum.py) | [C](Algorithms/Dynamic-Programming/0064_min_path_sum.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
+| 0071 | Simplify Path | Data-Structures/Stack | [Python](Data-Structures/Stack/0071_simplify_path.py) | [C](Data-Structures/Stack/0071_simplify_path.c) |
 | 0073 | Set Matrix Zero | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0073_set_matrix_zero.py) | [C](Algorithms/Dynamic-Programming/0073_set_matrix_zero.c) |
 | 0074 | Search 2D Array | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0074_search_2D_array.py) | [C](Algorithms/Binary-Search/0074_search_2D_array.c) |
 | 0077 | Combinations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0077_combinations.py) | [C](Algorithms/Backtracking/0077_combinations.c) |
