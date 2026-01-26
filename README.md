@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 58/50
+### 📈 Progress: 59/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -60,6 +60,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0076 | Word Search | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0076_word_search.py) | [C](Algorithms/Backtracking/0076_word_search.c) |
 | 0077 | Combinations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0077_combinations.py) | [C](Algorithms/Backtracking/0077_combinations.c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
+| 0080 | Remove Dupes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0080_remove_dupes.py) | [C](Algorithms/Two-Pointers/0080_remove_dupes.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
