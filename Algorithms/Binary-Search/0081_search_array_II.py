@@ -25,8 +25,8 @@ class Solution:
             #sorted right 
             else:
                 if nums[mid] < target <= nums[right]:
-                    right = mid - 1
-                else: 
                     left = mid + 1
+                else: 
+                    right = mid - 1
         return False
 
