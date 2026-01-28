@@ -4,6 +4,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
-    return 0;
+int removeDuplicates(int* nums, int numsSize){
+    if (numsSize <= 2){
+        return numsSize;
+    }
+    //only 2 dupes allowed 
+    int k = 2; 
+    for (int i = 2; i < numsSize; i++){
+        //not the same, write 
+        if (nums[k-2] != nums[i]){
+            nums[k] = nums[i];
+            k++;
+        }
+    }
+    return k;
 }
