@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 61/50
+### 📈 Progress: 62/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -64,6 +64,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0081 | Search Array Ii | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0081_search_array_II.py) | [C](Algorithms/Binary-Search/0081_search_array_II.c) |
 | 0082 | Remove Dupes Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0082_remove_dupes_II.py) | [C](Data-Structures/Linked-Lists/0082_remove_dupes_II.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
+| 0086 | Partition List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0086_partition_list.py) | [C](Data-Structures/Linked-Lists/0086_partition_list.c) |
 | 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
