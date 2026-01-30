@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 63/50
+### 📈 Progress: 64/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -67,6 +67,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0086 | Partition List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0086_partition_list.py) | [C](Data-Structures/Linked-Lists/0086_partition_list.c) |
 | 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0091 | Decode Ways | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0091_decode_ways.py) | [C](Algorithms/Dynamic-Programming/0091_decode_ways.c) |
+| 0092 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0092_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0092_reverse_linked_list.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
