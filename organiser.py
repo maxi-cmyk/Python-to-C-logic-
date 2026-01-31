@@ -17,7 +17,8 @@ TAG_MAPPING = {
     "stack":"Data-Structures/Stack",
     "matrix_manipulation": "Data-Structures/Matrix-Manipulation",
     "hashing":"Data-Structures/Hashing",
-    "dynamic_programming": "Algorithms/Dynamic-Programming"
+    "dynamic_programming": "Algorithms/Dynamic-Programming",
+    "bit_manipulation": "Algorithms/Bit-Manipulation"
 }
 
 # Files to ignore
