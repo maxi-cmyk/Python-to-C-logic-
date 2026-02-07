@@ -1,4 +1,4 @@
-#trees
+#tree
 
 from typing import Optional
 
