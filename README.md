@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 74/50
+### 📈 Progress: 75/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -73,6 +73,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
 | 0108 | Sorted Array To Bst | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
 | 0110 | Balanced Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0110_balanced_tree.py) | [C](Data-Structures/Trees/0110_balanced_tree.c) |
+| 0111 | Min Depth | Algorithms/Breath-First-Search | [Python](Algorithms/Breath-First-Search/0111_min_depth.py) | [C](Algorithms/Breath-First-Search/0111_min_depth.c) |
 | 0113 | Path Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0113_path_sum_II.py) | [C](Algorithms/Backtracking/0113_path_sum_II.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0137 | Single Number Ii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |
