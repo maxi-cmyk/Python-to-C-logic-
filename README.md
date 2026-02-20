@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 76/50
+### 📈 Progress: 77/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -75,7 +75,8 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0110 | Balanced Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0110_balanced_tree.py) | [C](Data-Structures/Trees/0110_balanced_tree.c) |
 | 0111 | Min Depth | Algorithms/Breath-First-Search | [Python](Algorithms/Breath-First-Search/0111_min_depth.py) | [C](Algorithms/Breath-First-Search/0111_min_depth.c) |
 | 0113 | Path Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0113_path_sum_II.py) | [C](Algorithms/Backtracking/0113_path_sum_II.c) |
-| 0118 | Pascal Triangle | Algorithms/Math | [Python](Algorithms/Math/0118_pascal_triangle.py) | [C](Algorithms/Math/0118_pascal_triangle.c) |
+| 0118 | Pascal Triangle | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0118_pascal_triangle.py) | [C](Algorithms/Dynamic-Programming/0118_pascal_triangle.c) |
+| 0119 | Pascal Triangle Ii | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0119_pascal_triangle_II.py) | [C](Algorithms/Dynamic-Programming/0119_pascal_triangle_II.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0137 | Single Number Ii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |
 | 0190 | Reversebits | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0190_reverseBits.py) | [C](Algorithms/Bit-Manipulation/0190_reverseBits.c) |
