@@ -1,4 +1,4 @@
-#dynamic_programming
+#math
 
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:

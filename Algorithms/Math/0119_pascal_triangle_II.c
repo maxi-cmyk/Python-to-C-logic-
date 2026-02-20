@@ -10,7 +10,6 @@ int* getRow (int rowIndex, int* rowSize){
     res[0] = 1;
 
     for (int i = 1; i <= rowIndex; i++){
-        //nCr, n--, r++
         temp = temp * (rowIndex - i) / i;
         res[i] = (int)temp;
     }
