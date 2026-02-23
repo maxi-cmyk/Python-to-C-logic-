@@ -1,4 +1,4 @@
-#two_pointers
+#linked_list
 
 from typing import Optional 
 
