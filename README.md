@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 83/50
+### 📈 Progress: 84/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -70,6 +70,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0092 | Reverse Linked List Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.py) | [C](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.c) |
 | 0094-binary | Tree Inorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0094-binary_tree_inorder.py) | [C](Data-Structures/Trees/0094-binary_tree_inorder.c) |
 | 0095 | Unique Bst Ii | Data-Structures/Trees | [Python](Data-Structures/Trees/0095_unique_BST_II.py) | [C](Data-Structures/Trees/0095_unique_BST_II.c) |
+| 0096 | Unique Bst | Algorithms/Math | [Python](Algorithms/Math/0096_unique_BST.py) | [C](Algorithms/Math/0096_unique_BST.c) |
 | 0101 | Symmetric Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0101_symmetric_tree.py) | [C](Data-Structures/Trees/0101_symmetric_tree.c) |
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
 | 0108 | Sorted Array To Bst | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
