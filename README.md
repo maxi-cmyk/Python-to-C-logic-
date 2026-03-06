@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 84/50
+### 📈 Progress: 85/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -79,6 +79,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0113 | Path Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0113_path_sum_II.py) | [C](Algorithms/Backtracking/0113_path_sum_II.c) |
 | 0118 | Pascal Triangle | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0118_pascal_triangle.py) | [C](Algorithms/Dynamic-Programming/0118_pascal_triangle.c) |
 | 0119 | Pascal Triangle Ii | Algorithms/Math | [Python](Algorithms/Math/0119_pascal_triangle_II.py) | [C](Algorithms/Math/0119_pascal_triangle_II.c) |
+| 0120 | Triangle | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0120_triangle.py) | [C](Algorithms/Dynamic-Programming/0120_triangle.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0125 | Valid Palindrome | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0125_valid_palindrome.py) | [C](Algorithms/Two-Pointers/0125_valid_palindrome.c) |
 | 0137 | Single Number Ii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |

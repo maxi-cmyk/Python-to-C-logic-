@@ -108,7 +108,8 @@ def organize():
         for _, row in table_rows:
             f.write(row + "\n")
             
-    print(f" README updated with {total} problems. Progress: {percent:.1f}%")
+    print(f"README updated with {total} problems. Progress: {percent:.1f}%")
+    print("remember to update obsidian!!!!")
 
 if __name__ == "__main__":
     organize()
