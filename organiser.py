@@ -17,7 +17,7 @@ TAG_MAPPING = {
     "stack":"Data-Structures/Stack",
     "matrix_manipulation": "Data-Structures/Matrix-Manipulation",
     "hashing":"Data-Structures/Hashing",
-    "dynamic_programming": "Algorithms/Dynamic-Programming",
+    "dp": "Algorithms/Dynamic-Programming",
     "bit_manipulation": "Algorithms/Bit-Manipulation",
     "bfs": "Algorithms/Breath-First-Search"
 }
