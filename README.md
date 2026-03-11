@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 85/50
+### 📈 Progress: 86/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -87,6 +87,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0142 | Linked List Cycle Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.py) | [C](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.c) |
 | 0144 | Binary Tree Preorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0144_binary_tree_preorder.py) | [C](Data-Structures/Trees/0144_binary_tree_preorder.c) |
 | 0145 | Binary Tree Postorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0145_binary_tree_postorder.py) | [C](Data-Structures/Trees/0145_binary_tree_postorder.c) |
+| 0160 | Intersection List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0160_intersection_list.py) | [C](Data-Structures/Linked-Lists/0160_intersection_list.c) |
 | 0190 | Reversebits | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0190_reverseBits.py) | [C](Algorithms/Bit-Manipulation/0190_reverseBits.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
