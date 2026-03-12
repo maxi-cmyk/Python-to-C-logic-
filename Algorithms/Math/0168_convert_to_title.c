@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 char* convertToTitle(int columnNumber{
-    //#build left to right then flip 
+    //build left to right then flip 
 
     char* res = (char*)malloc(10* sizeof(char));
     int i = 0;
