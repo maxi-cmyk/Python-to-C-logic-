@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 87/50
+### 📈 Progress: 88/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -13,6 +13,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0002 | Add Two Numbers | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0002_add_two_numbers.py) | [C](Data-Structures/Linked-Lists/0002_add_two_numbers.c) |
 | 0003 | Longest Substring | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0003_longest_substring.py) | [C](Algorithms/Sliding-Window/0003_longest_substring.c) |
 | 0005 | Longest Palindrome Substring | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0005_longest_palindrome_substring.py) | [C](Algorithms/Sliding-Window/0005_longest_palindrome_substring.c) |
+| 0006 | Zigzag | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0006_zigzag.py) | [C](Algorithms/Sliding-Window/0006_zigzag.c) |
 | 0007 | Reverse Integer | Algorithms/Math | [Python](Algorithms/Math/0007_reverse_integer.py) | [C](Algorithms/Math/0007_reverse_integer.c) |
 | 0008 | Myatoi | Algorithms/Math | [Python](Algorithms/Math/0008_myAtoi.py) | [C](Algorithms/Math/0008_myAtoi.c) |
 | 0009 | Is Palindrome | Algorithms/Math | [Python](Algorithms/Math/0009_is_palindrome.py) | [C](Algorithms/Math/0009_is_palindrome.c) |
