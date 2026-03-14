@@ -1,0 +1,17 @@
+// Practice for: 0089_gray_code.py
+// Bridge logic from Python to C pointers here.
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h> 
+
+int* grayCode(int n, int* returnSize){
+    int total_num = 1 << n; 
+    int* res = (int*)malloc(total_num * sizeof(int));
+
+    for (int i = 0; i < total_num; i++){
+        res[i] = i ^ (i >> 1);
+    }
+    *returnSize = total_num;
+    return res; 
+}

@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 88/50
+### 📈 Progress: 89/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -66,6 +66,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0082 | Remove Dupes Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0082_remove_dupes_II.py) | [C](Data-Structures/Linked-Lists/0082_remove_dupes_II.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0086 | Partition List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0086_partition_list.py) | [C](Data-Structures/Linked-Lists/0086_partition_list.c) |
+| 0089 | Gray Code | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0089_gray_code.py) | [C](Algorithms/Bit-Manipulation/0089_gray_code.c) |
 | 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0091 | Decode Ways | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0091_decode_ways.py) | [C](Algorithms/Dynamic-Programming/0091_decode_ways.c) |
 | 0092 | Reverse Linked List Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.py) | [C](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.c) |
