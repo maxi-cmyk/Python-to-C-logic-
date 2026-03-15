@@ -6,6 +6,7 @@
 #include <math.h> 
 
 int* grayCode(int n, int* returnSize){
+    //bit shift to left to determine size
     int total_num = 1 << n; 
     int* res = (int*)malloc(total_num * sizeof(int));
 
