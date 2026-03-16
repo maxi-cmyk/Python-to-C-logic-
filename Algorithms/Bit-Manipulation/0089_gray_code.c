@@ -8,6 +8,7 @@
 int* grayCode(int n, int* returnSize){
     //bit shift to left to determine size
     int total_num = 1 << n; 
+    //no need for pow(2, n) sicne we have already bitshifted
     int* res = (int*)malloc(total_num * sizeof(int));
 
     for (int i = 0; i < total_num; i++){
