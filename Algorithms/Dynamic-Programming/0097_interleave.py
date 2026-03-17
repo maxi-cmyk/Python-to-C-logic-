@@ -1,7 +1,7 @@
 #dp
 
 #time complexity -> o(m * n)
-#space complexity -> o(n), because its an optimised dp array 
+#space complexity -> o(min (m,n), because its an optimised dp array 
 
 class Solution(object):
     def isInterleave(self, s1, s2, s3):
