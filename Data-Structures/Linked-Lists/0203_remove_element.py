@@ -5,20 +5,18 @@ class ListNode(object):
         self.val = val
         self.next = next
         
-class Solution(object):
+class Solution:
     def removeElements(self, head, val):
-        """
-        :type head: Optional[ListNode]
-        :type val: int
-        :rtype: Optional[ListNode]
-        """
-        #if dummy.val = val, remove 
-        ans = ListNode(0, head)
-        dummy = ans
-
-        while dummy: 
-            while dummy.next and dummy.next.val == val:
-                dummy.next = dummy.next.next 
-            dummy = dummy.next 
-            
-        return ans.next
+        # Create a dummy node pointing to head
+        dummy = ListNode(0)
+        dummy.next = head
+        current = dummy
+        
+        while current.next:
+            if current.next.val == val:
+                # Skip the node with the target value
+                current.next = current.next.next
+            else:
+                current = current.next
+        
+        return dummy.next
