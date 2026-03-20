@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 91/50
+### 📈 Progress: 92/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -94,6 +94,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0168 | Convert To Title | Algorithms/Math | [Python](Algorithms/Math/0168_convert_to_title.py) | [C](Algorithms/Math/0168_convert_to_title.c) |
 | 0190 | Reversebits | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0190_reverseBits.py) | [C](Algorithms/Bit-Manipulation/0190_reverseBits.c) |
 | 0202 | Happy Number | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0202_happy_number.py) | [C](Algorithms/Two-Pointers/0202_happy_number.c) |
+| 0203 | Remove Element | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0203_remove_element.py) | [C](Data-Structures/Linked-Lists/0203_remove_element.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
 | 0240 | Search 2D Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.c) |
