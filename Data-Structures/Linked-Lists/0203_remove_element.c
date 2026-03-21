@@ -24,7 +24,7 @@ struct ListNode *removeElements (struct ListNode *head, int val){
             current = current->next;
         }
     }
-    //must initialise new variable, free dummy 
+    //must initialise new variable, free dummy variable
     struct ListNode *newHead = dummy->next;
     free(dummy);
     return newHead;
