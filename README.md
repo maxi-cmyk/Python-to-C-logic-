@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 93/50
+### 📈 Progress: 94/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -102,4 +102,5 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0260 | Single Number Iii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0260_single_number_III.py) | [C](Algorithms/Bit-Manipulation/0260_single_number_III.c) |
 | 0283 | Move Zeroes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0283_move_zeroes.py) | [C](Algorithms/Two-Pointers/0283_move_zeroes.c) |
 | 0318 | Max Product | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0318_max_product.py) | [C](Algorithms/Bit-Manipulation/0318_max_product.c) |
+| 0387 | First Unique Char | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0387_first_unique_char.py) | [C](Data-Structures/Hashing/0387_first_unique_char.c) |
 | 0443 | String Compression | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0443_string_compression.py) | [C](Algorithms/Two-Pointers/0443_string_compression.c) |
