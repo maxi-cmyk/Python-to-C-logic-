@@ -23,7 +23,7 @@ TAG_MAPPING = {
 }
 
 # Files to ignore
-IGNORE_LIST = ["organizer.py", "README.md", ".gitignore", "template.py"]
+IGNORE_LIST = ["organizer.py", "README.md", ".gitignore", "template.py", ".vscode"]
 GOAL = 50  
 
 README_HEADER = """# leetcode stuffs
