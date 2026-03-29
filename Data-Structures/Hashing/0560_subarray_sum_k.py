@@ -1,6 +1,6 @@
 #hashing
  # time complexity -> o(n)
- # sapce compelxity -> o(n)
+ # space compelxity -> o(n)
 class Solution(object):
     def subarraySum(self, nums, k):
         """
