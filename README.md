@@ -3,7 +3,7 @@
 This repository tracks my journey in Data Structures and Algorithms. 
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 99/50
+### 📈 Progress: 100/50
 `████████████████████` 100.0%
 
 ## 📚 Problem Library
@@ -76,6 +76,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0097 | Interleave | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0097_interleave.py) | [C](Algorithms/Dynamic-Programming/0097_interleave.c) |
 | 0098 | Restore Ip Address | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_restore_ip_address.py) | [C](Algorithms/Backtracking/0098_restore_ip_address.c) |
 | 0098 | Validate Bst | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_validate_BST.py) | [C](Algorithms/Backtracking/0098_validate_BST.c) |
+| 0099 | Recover Bst | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0099_recover_BST.py) | [C](Algorithms/Backtracking/0099_recover_BST.c) |
 | 0101 | Symmetric Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0101_symmetric_tree.py) | [C](Data-Structures/Trees/0101_symmetric_tree.c) |
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
 | 0108 | Sorted Array To Bst | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
