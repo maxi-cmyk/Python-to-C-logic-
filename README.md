@@ -1,10 +1,10 @@
 # leetcode stuffs
 
-This repository tracks my journey in Data Structures and Algorithms. 
+This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 100/50
-`████████████████████` 100.0%
+### 📈 Progress: 100/150
+`█████████████░░░░░░░` 66.7%
 
 ## 📚 Problem Library
 
@@ -15,7 +15,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0005 | Longest Palindrome Substring | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0005_longest_palindrome_substring.py) | [C](Algorithms/Sliding-Window/0005_longest_palindrome_substring.c) |
 | 0006 | Zigzag | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0006_zigzag.py) | [C](Algorithms/Sliding-Window/0006_zigzag.c) |
 | 0007 | Reverse Integer | Algorithms/Math | [Python](Algorithms/Math/0007_reverse_integer.py) | [C](Algorithms/Math/0007_reverse_integer.c) |
-| 0008 | Myatoi | Algorithms/Math | [Python](Algorithms/Math/0008_myAtoi.py) | [C](Algorithms/Math/0008_myAtoi.c) |
+| 0008 | My Atoi | Algorithms/Math | [Python](Algorithms/Math/0008_myAtoi.py) | [C](Algorithms/Math/0008_myAtoi.c) |
 | 0009 | Is Palindrome | Algorithms/Math | [Python](Algorithms/Math/0009_is_palindrome.py) | [C](Algorithms/Math/0009_is_palindrome.c) |
 | 0011 | Container Max Area | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0011_container_max_area.py) | [C](Algorithms/Two-Pointers/0011_container_max_area.c) |
 | 0012 | Int To Roman | Algorithms/Greedy | [Python](Algorithms/Greedy/0012_int_to_roman.py) | [C](Algorithms/Greedy/0012_int_to_roman.c) |
@@ -34,11 +34,11 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0036 | Valid Sudoku | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0036_valid_sudoku.py) | [C](Data-Structures/Matrix-Manipulation/0036_valid_sudoku.c) |
 | 0038 | Count And Say | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0038_count_and_say.py) | [C](Algorithms/Two-Pointers/0038_count_and_say.c) |
 | 0039 | Combination Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0039_combination_sum.py) | [C](Algorithms/Backtracking/0039_combination_sum.c) |
-| 0040 | Combination Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0040_combination_sum_II.py) | [C](Algorithms/Backtracking/0040_combination_sum_II.c) |
+| 0040 | Combination Sum II | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0040_combination_sum_II.py) | [C](Algorithms/Backtracking/0040_combination_sum_II.c) |
 | 0043 | Multiply Strings | Algorithms/Math | [Python](Algorithms/Math/0043_multiply_strings.py) | [C](Algorithms/Math/0043_multiply_strings.c) |
-| 0045 | Jumping Game Ii | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0045_jumping_game_II.py) | [C](Algorithms/Two-Pointers/0045_jumping_game_II.c) |
+| 0045 | Jumping Game II | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0045_jumping_game_II.py) | [C](Algorithms/Two-Pointers/0045_jumping_game_II.c) |
 | 0046 | Permutations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0046_permutations.py) | [C](Algorithms/Backtracking/0046_permutations.c) |
-| 0047 | Permutations Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0047_permutations_II.py) | [C](Algorithms/Backtracking/0047_permutations_II.c) |
+| 0047 | Permutations II | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0047_permutations_II.py) | [C](Algorithms/Backtracking/0047_permutations_II.c) |
 | 0048 | Rotate Image | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0048_rotate_image.py) | [C](Data-Structures/Matrix-Manipulation/0048_rotate_image.c) |
 | 0049 | Group Anagrams | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0049_group_anagrams.py) | [C](Data-Structures/Hashing/0049_group_anagrams.c) |
 | 0050 | Pow(X,N) | Algorithms/Math | [Python](Algorithms/Math/0050_pow(x,n).py) | [C](Algorithms/Math/0050_pow(x,n).c) |
@@ -47,10 +47,10 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0055 | Jump Game | Algorithms/Greedy | [Python](Algorithms/Greedy/0055_jump_game.py) | [C](Algorithms/Greedy/0055_jump_game.c) |
 | 0056 | Merge Intervals | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0056_merge_intervals.py) | [C](Algorithms/Two-Pointers/0056_merge_intervals.c) |
 | 0057 | Insert Interval | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0057_insert_interval.py) | [C](Algorithms/Two-Pointers/0057_insert_interval.c) |
-| 0059 | Spiral Matrix Ii | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0059_spiral_matrix_II.py) | [C](Data-Structures/Matrix-Manipulation/0059_spiral_matrix_II.c) |
+| 0059 | Spiral Matrix II | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0059_spiral_matrix_II.py) | [C](Data-Structures/Matrix-Manipulation/0059_spiral_matrix_II.c) |
 | 0061 | Rotate List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0061_rotate_list.py) | [C](Data-Structures/Linked-Lists/0061_rotate_list.c) |
 | 0062 | Unique Paths | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0062_unique_paths.py) | [C](Algorithms/Backtracking/0062_unique_paths.c) |
-| 0063 | Unique Paths Ii | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0063_unique_paths_II.py) | [C](Algorithms/Dynamic-Programming/0063_unique_paths_II.c) |
+| 0063 | Unique Paths II | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0063_unique_paths_II.py) | [C](Algorithms/Dynamic-Programming/0063_unique_paths_II.c) |
 | 0064 | Min Path Sum | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0064_min_path_sum.py) | [C](Algorithms/Dynamic-Programming/0064_min_path_sum.c) |
 | 0069 | Sqrt(X) | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0069_sqrt(x).py) | [C](Algorithms/Binary-Search/0069_sqrt(x).c) |
 | 0071 | Simplify Path | Data-Structures/Stack | [Python](Data-Structures/Stack/0071_simplify_path.py) | [C](Data-Structures/Stack/0071_simplify_path.c) |
@@ -62,48 +62,48 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0077 | Combinations | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0077_combinations.py) | [C](Algorithms/Backtracking/0077_combinations.c) |
 | 0078 | Subsets | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0078_subsets.py) | [C](Algorithms/Backtracking/0078_subsets.c) |
 | 0080 | Remove Dupes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0080_remove_dupes.py) | [C](Algorithms/Two-Pointers/0080_remove_dupes.c) |
-| 0081 | Search Array Ii | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0081_search_array_II.py) | [C](Algorithms/Binary-Search/0081_search_array_II.c) |
-| 0082 | Remove Dupes Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0082_remove_dupes_II.py) | [C](Data-Structures/Linked-Lists/0082_remove_dupes_II.c) |
+| 0081 | Search Array II | Algorithms/Binary-Search | [Python](Algorithms/Binary-Search/0081_search_array_II.py) | [C](Algorithms/Binary-Search/0081_search_array_II.c) |
+| 0082 | Remove Dupes II | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0082_remove_dupes_II.py) | [C](Data-Structures/Linked-Lists/0082_remove_dupes_II.c) |
 | 0083 | Remove Dupe | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0083_remove_dupe.py) | [C](Data-Structures/Linked-Lists/0083_remove_dupe.c) |
 | 0086 | Partition List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0086_partition_list.py) | [C](Data-Structures/Linked-Lists/0086_partition_list.c) |
 | 0089 | Gray Code | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0089_gray_code.py) | [C](Algorithms/Bit-Manipulation/0089_gray_code.c) |
-| 0090 | Subsets Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
+| 0090 | Subsets II | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0090_subsets_II.py) | [C](Algorithms/Backtracking/0090_subsets_II.c) |
 | 0091 | Decode Ways | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0091_decode_ways.py) | [C](Algorithms/Dynamic-Programming/0091_decode_ways.c) |
-| 0092 | Reverse Linked List Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.py) | [C](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.c) |
-| 0094-binary | Tree Inorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0094-binary_tree_inorder.py) | [C](Data-Structures/Trees/0094-binary_tree_inorder.c) |
-| 0095 | Unique Bst Ii | Data-Structures/Trees | [Python](Data-Structures/Trees/0095_unique_BST_II.py) | [C](Data-Structures/Trees/0095_unique_BST_II.c) |
-| 0096 | Unique Bst | Algorithms/Math | [Python](Algorithms/Math/0096_unique_BST.py) | [C](Algorithms/Math/0096_unique_BST.c) |
+| 0092 | Reverse Linked List II | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.py) | [C](Data-Structures/Linked-Lists/0092_reverse_linked_list_II.c) |
+| 0094 | Binary Tree Inorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0094-binary_tree_inorder.py) | [C](Data-Structures/Trees/0094-binary_tree_inorder.c) |
+| 0095 | Unique BST II | Data-Structures/Trees | [Python](Data-Structures/Trees/0095_unique_BST_II.py) | [C](Data-Structures/Trees/0095_unique_BST_II.c) |
+| 0096 | Unique BST | Algorithms/Math | [Python](Algorithms/Math/0096_unique_BST.py) | [C](Algorithms/Math/0096_unique_BST.c) |
 | 0097 | Interleave | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0097_interleave.py) | [C](Algorithms/Dynamic-Programming/0097_interleave.c) |
-| 0098 | Restore Ip Address | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_restore_ip_address.py) | [C](Algorithms/Backtracking/0098_restore_ip_address.c) |
-| 0098 | Validate Bst | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_validate_BST.py) | [C](Algorithms/Backtracking/0098_validate_BST.c) |
-| 0099 | Recover Bst | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0099_recover_BST.py) | [C](Algorithms/Backtracking/0099_recover_BST.c) |
+| 0098 | Restore IP Address | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_restore_ip_address.py) | [C](Algorithms/Backtracking/0098_restore_ip_address.c) |
+| 0098 | Validate BST | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0098_validate_BST.py) | [C](Algorithms/Backtracking/0098_validate_BST.c) |
+| 0099 | Recover BST | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0099_recover_BST.py) | [C](Algorithms/Backtracking/0099_recover_BST.c) |
 | 0101 | Symmetric Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0101_symmetric_tree.py) | [C](Data-Structures/Trees/0101_symmetric_tree.c) |
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
-| 0108 | Sorted Array To Bst | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
+| 0108 | Sorted Array To BST | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
 | 0110 | Balanced Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0110_balanced_tree.py) | [C](Data-Structures/Trees/0110_balanced_tree.c) |
 | 0111 | Min Depth | Algorithms/Breath-First-Search | [Python](Algorithms/Breath-First-Search/0111_min_depth.py) | [C](Algorithms/Breath-First-Search/0111_min_depth.c) |
-| 0113 | Path Sum Ii | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0113_path_sum_II.py) | [C](Algorithms/Backtracking/0113_path_sum_II.c) |
+| 0113 | Path Sum II | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0113_path_sum_II.py) | [C](Algorithms/Backtracking/0113_path_sum_II.c) |
 | 0118 | Pascal Triangle | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0118_pascal_triangle.py) | [C](Algorithms/Dynamic-Programming/0118_pascal_triangle.c) |
-| 0119 | Pascal Triangle Ii | Algorithms/Math | [Python](Algorithms/Math/0119_pascal_triangle_II.py) | [C](Algorithms/Math/0119_pascal_triangle_II.c) |
+| 0119 | Pascal Triangle II | Algorithms/Math | [Python](Algorithms/Math/0119_pascal_triangle_II.py) | [C](Algorithms/Math/0119_pascal_triangle_II.c) |
 | 0120 | Triangle | Algorithms/Dynamic-Programming | [Python](Algorithms/Dynamic-Programming/0120_triangle.py) | [C](Algorithms/Dynamic-Programming/0120_triangle.c) |
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
-| 0122 | Best Time To Buy Stock Ii | Algorithms/Greedy | [Python](Algorithms/Greedy/0122_best_time_to_buy_stock_II.py) | [C](Algorithms/Greedy/0122_best_time_to_buy_stock_II.c) |
+| 0122 | Best Time To Buy Stock II | Algorithms/Greedy | [Python](Algorithms/Greedy/0122_best_time_to_buy_stock_II.py) | [C](Algorithms/Greedy/0122_best_time_to_buy_stock_II.c) |
 | 0125 | Valid Palindrome | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0125_valid_palindrome.py) | [C](Algorithms/Two-Pointers/0125_valid_palindrome.c) |
-| 0137 | Single Number Ii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |
+| 0137 | Single Number II | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |
 | 0141 | Linked List Cycle | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0141_linked_list_cycle.py) | [C](Data-Structures/Linked-Lists/0141_linked_list_cycle.c) |
-| 0142 | Linked List Cycle Ii | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.py) | [C](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.c) |
+| 0142 | Linked List Cycle II | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.py) | [C](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.c) |
 | 0144 | Binary Tree Preorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0144_binary_tree_preorder.py) | [C](Data-Structures/Trees/0144_binary_tree_preorder.c) |
 | 0145 | Binary Tree Postorder | Data-Structures/Trees | [Python](Data-Structures/Trees/0145_binary_tree_postorder.py) | [C](Data-Structures/Trees/0145_binary_tree_postorder.c) |
 | 0160 | Intersection List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0160_intersection_list.py) | [C](Data-Structures/Linked-Lists/0160_intersection_list.c) |
 | 0168 | Convert To Title | Algorithms/Math | [Python](Algorithms/Math/0168_convert_to_title.py) | [C](Algorithms/Math/0168_convert_to_title.c) |
-| 0190 | Reversebits | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0190_reverseBits.py) | [C](Algorithms/Bit-Manipulation/0190_reverseBits.c) |
+| 0190 | Reverse Bits | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0190_reverseBits.py) | [C](Algorithms/Bit-Manipulation/0190_reverseBits.c) |
 | 0202 | Happy Number | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0202_happy_number.py) | [C](Algorithms/Two-Pointers/0202_happy_number.c) |
 | 0203 | Remove Element | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0203_remove_element.py) | [C](Data-Structures/Linked-Lists/0203_remove_element.c) |
 | 0205 | Isomorphic String | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0205_isomorphic_string.py) | [C](Data-Structures/Hashing/0205_isomorphic_string.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
 | 0240 | Search 2D Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.c) |
-| 0260 | Single Number Iii | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0260_single_number_III.py) | [C](Algorithms/Bit-Manipulation/0260_single_number_III.c) |
+| 0260 | Single Number III | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0260_single_number_III.py) | [C](Algorithms/Bit-Manipulation/0260_single_number_III.c) |
 | 0283 | Move Zeroes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0283_move_zeroes.py) | [C](Algorithms/Two-Pointers/0283_move_zeroes.c) |
 | 0290 | Word Pattern | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0290_word_pattern.py) | [C](Data-Structures/Hashing/0290_word_pattern.c) |
 | 0318 | Max Product | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0318_max_product.py) | [C](Algorithms/Bit-Manipulation/0318_max_product.c) |
