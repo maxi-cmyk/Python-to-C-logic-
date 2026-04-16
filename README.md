@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 100/150
-`█████████████░░░░░░░` 66.7%
+### 📈 Progress: 101/150
+`█████████████░░░░░░░` 67.3%
 
 ## 📚 Problem Library
 
@@ -23,6 +23,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0016 | 3Sum Closest | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0016_3Sum_closest.py) | [C](Algorithms/Two-Pointers/0016_3Sum_closest.c) |
 | 0017 | Letter Phone Number | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0017_letter_phone_number.py) | [C](Algorithms/Backtracking/0017_letter_phone_number.c) |
 | 0018 | 4Sum | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0018_4sum.py) | [C](Algorithms/Two-Pointers/0018_4sum.c) |
+| 0019 | Remove Node | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0019_remove_node.py) | [C](Data-Structures/Linked-Lists/0019_remove_node.c) |
 | 0020 | Valid Paranthesis | Data-Structures/Stack | [Python](Data-Structures/Stack/0020_valid_paranthesis.py) | [C](Data-Structures/Stack/0020_valid_paranthesis.c) |
 | 0021 | Merge Two Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0021_merge_two_linked_list.py) | [C](Data-Structures/Linked-Lists/0021_merge_two_linked_list.c) |
 | 0022 | Generate Paranthesis | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0022_generate_paranthesis.py) | [C](Algorithms/Backtracking/0022_generate_paranthesis.c) |
