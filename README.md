@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 102/150
-`█████████████░░░░░░░` 68.0%
+### 📈 Progress: 103/150
+`█████████████░░░░░░░` 68.7%
 
 ## 📚 Problem Library
 
@@ -81,6 +81,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0101 | Symmetric Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0101_symmetric_tree.py) | [C](Data-Structures/Trees/0101_symmetric_tree.c) |
 | 0102 | Binary Tree Order | Data-Structures/Trees | [Python](Data-Structures/Trees/0102_Binary_Tree_Order.py) | [C](Data-Structures/Trees/0102_Binary_Tree_Order.c) |
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
+| 0103 | Zigzag Binary Tree | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0103_zigzag_binary_tree.py) | [C](Data-Structures/Linked-Lists/0103_zigzag_binary_tree.c) |
 | 0108 | Sorted Array To BST | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
 | 0110 | Balanced Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0110_balanced_tree.py) | [C](Data-Structures/Trees/0110_balanced_tree.c) |
 | 0111 | Min Depth | Algorithms/Breath-First-Search | [Python](Algorithms/Breath-First-Search/0111_min_depth.py) | [C](Algorithms/Breath-First-Search/0111_min_depth.c) |
