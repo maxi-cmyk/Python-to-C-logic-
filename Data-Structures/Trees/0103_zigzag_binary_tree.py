@@ -1,4 +1,8 @@
-#linked_list
+#trees
+#fifo
+#time complexity -> o(n), space complexity -> o(n) 
+#use deque here to stop extra memory work -> if use list, popping lement results in empty slot and all elemnts have to shift
+#deque is a doubly-linked list, so when pop elemnt, only that element is affected -> every single popleft is o(1) time
 
 from typing import Optional 
 from collections import deque
