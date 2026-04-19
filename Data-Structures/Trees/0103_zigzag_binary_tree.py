@@ -28,7 +28,7 @@ class Solution:
 
             for i in range (level_size): 
                 node = queue.popleft()
-                #check if left or right, if right take the first right
+                #check if left or right, make sure to scale with levelSize!
                 index = i if left_to_right else level_size - 1 - i 
                 current_level[index] = node.val 
                 if node.left: 
