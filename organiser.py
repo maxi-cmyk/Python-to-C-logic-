@@ -32,6 +32,8 @@ IGNORE_NAMES = {
 BASE_GOAL = 150
 GOAL_STEP = 50
 PROBLEM_FILE_PATTERN = re.compile(r"^(?P<num>\d+)[_-](?P<slug>.+)\.py$")
+
+#reformat some names
 NAME_REPLACEMENTS = {
     "Bst": "BST",
     "Ii": "II",
