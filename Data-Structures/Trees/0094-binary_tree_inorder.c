@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//tree struct
 struct TreeNode {
     int val;
     struct TreeNode *left;
