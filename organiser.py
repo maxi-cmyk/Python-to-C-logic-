@@ -147,8 +147,13 @@ def organize():
             if not is_problem_file(file):
                 continue
 
+            python_path = Path(root, file)
+            c_path = python_path.with_suffix(".c")
+            if not c_path.exists():
+                write_c_template(c_path, file)
+
             number, name = get_problem_info(file)
-            rel_path = Path(root, file).as_posix().removeprefix("./")
+            rel_path = python_path.as_posix().removeprefix("./")
             c_rel_path = rel_path.removesuffix(".py") + ".c"
             category = Path(root).as_posix().removeprefix("./")
             if category == ".":

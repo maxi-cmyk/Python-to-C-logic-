@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 103/150
-`█████████████░░░░░░░` 68.7%
+### 📈 Progress: 104/150
+`█████████████░░░░░░░` 69.3%
 
 ## 📚 Problem Library
 
@@ -81,7 +81,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0101 | Symmetric Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0101_symmetric_tree.py) | [C](Data-Structures/Trees/0101_symmetric_tree.c) |
 | 0102 | Binary Tree Order | Data-Structures/Trees | [Python](Data-Structures/Trees/0102_Binary_Tree_Order.py) | [C](Data-Structures/Trees/0102_Binary_Tree_Order.c) |
 | 0102 | Path Sum | Algorithms/Backtracking | [Python](Algorithms/Backtracking/0102_path_sum.py) | [C](Algorithms/Backtracking/0102_path_sum.c) |
-| 0103 | Zigzag Binary Tree | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0103_zigzag_binary_tree.py) | [C](Data-Structures/Linked-Lists/0103_zigzag_binary_tree.c) |
+| 0103 | Zigzag Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0103_zigzag_binary_tree.py) | [C](Data-Structures/Trees/0103_zigzag_binary_tree.c) |
 | 0108 | Sorted Array To BST | Data-Structures/Trees | [Python](Data-Structures/Trees/0108_sorted_array_to_BST.py) | [C](Data-Structures/Trees/0108_sorted_array_to_BST.c) |
 | 0110 | Balanced Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0110_balanced_tree.py) | [C](Data-Structures/Trees/0110_balanced_tree.c) |
 | 0111 | Min Depth | Algorithms/Breath-First-Search | [Python](Algorithms/Breath-First-Search/0111_min_depth.py) | [C](Algorithms/Breath-First-Search/0111_min_depth.c) |
@@ -105,6 +105,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0205 | Isomorphic String | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0205_isomorphic_string.py) | [C](Data-Structures/Hashing/0205_isomorphic_string.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
+| 0232 | Implement Queue Stack | Data-Structures/Stack | [Python](Data-Structures/Stack/0232_implement_queue_stack.py) | [C](Data-Structures/Stack/0232_implement_queue_stack.c) |
 | 0240 | Search 2D Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.c) |
 | 0260 | Single Number III | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0260_single_number_III.py) | [C](Algorithms/Bit-Manipulation/0260_single_number_III.c) |
 | 0283 | Move Zeroes | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0283_move_zeroes.py) | [C](Algorithms/Two-Pointers/0283_move_zeroes.c) |
