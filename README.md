@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 106/150
-`██████████████░░░░░░` 70.7%
+### 📈 Progress: 107/150
+`██████████████░░░░░░` 71.3%
 
 ## 📚 Problem Library
 
@@ -92,6 +92,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0121 | Best Time Stock | Algorithms/Greedy | [Python](Algorithms/Greedy/0121_best_time_stock.py) | [C](Algorithms/Greedy/0121_best_time_stock.c) |
 | 0122 | Best Time To Buy Stock II | Algorithms/Greedy | [Python](Algorithms/Greedy/0122_best_time_to_buy_stock_II.py) | [C](Algorithms/Greedy/0122_best_time_to_buy_stock_II.c) |
 | 0125 | Valid Palindrome | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0125_valid_palindrome.py) | [C](Algorithms/Two-Pointers/0125_valid_palindrome.c) |
+| 0128 | Longest Consecutive Sequence | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0128_longest_consecutive_sequence.py) | [C](Data-Structures/Hashing/0128_longest_consecutive_sequence.c) |
 | 0137 | Single Number II | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0137_single_number_II.py) | [C](Algorithms/Bit-Manipulation/0137_single_number_II.c) |
 | 0141 | Linked List Cycle | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0141_linked_list_cycle.py) | [C](Data-Structures/Linked-Lists/0141_linked_list_cycle.c) |
 | 0142 | Linked List Cycle II | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.py) | [C](Data-Structures/Linked-Lists/0142_linked_list_cycle_II.c) |
