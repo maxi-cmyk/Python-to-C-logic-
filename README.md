@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 109/150
-`██████████████░░░░░░` 72.7%
+### 📈 Progress: 110/150
+`██████████████░░░░░░` 73.3%
 
 ## 📚 Problem Library
 
@@ -105,6 +105,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0203 | Remove Element | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0203_remove_element.py) | [C](Data-Structures/Linked-Lists/0203_remove_element.c) |
 | 0205 | Isomorphic String | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0205_isomorphic_string.py) | [C](Data-Structures/Hashing/0205_isomorphic_string.c) |
 | 0206 | Reverse Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0206_reverse_linked_list.py) | [C](Data-Structures/Linked-Lists/0206_reverse_linked_list.c) |
+| 0217 | Contains Dupe | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0217_contains_dupe.py) | [C](Algorithms/Sliding-Window/0217_contains_dupe.c) |
 | 0219 | Contains Dupe | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0219_contains_dupe.py) | [C](Algorithms/Sliding-Window/0219_contains_dupe.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
 | 0232 | Implement Queue Stack | Data-Structures/Stack | [Python](Data-Structures/Stack/0232_implement_queue_stack.py) | [C](Data-Structures/Stack/0232_implement_queue_stack.c) |
