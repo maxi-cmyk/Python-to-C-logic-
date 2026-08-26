@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 110/150
-`██████████████░░░░░░` 73.3%
+### 📈 Progress: 111/150
+`██████████████░░░░░░` 74.0%
 
 ## 📚 Problem Library
 
@@ -108,6 +108,7 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0217 | Contains Dupe | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0217_contains_dupe.py) | [C](Algorithms/Sliding-Window/0217_contains_dupe.c) |
 | 0219 | Contains Dupe | Algorithms/Sliding-Window | [Python](Algorithms/Sliding-Window/0219_contains_dupe.py) | [C](Algorithms/Sliding-Window/0219_contains_dupe.c) |
 | 0226 | Invert Binary Tree | Data-Structures/Trees | [Python](Data-Structures/Trees/0226_invert_binary_tree.py) | [C](Data-Structures/Trees/0226_invert_binary_tree.c) |
+| 0228 | Summary Ranges | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0228_summary_ranges.py) | [C](Algorithms/Two-Pointers/0228_summary_ranges.c) |
 | 0232 | Implement Queue Stack | Data-Structures/Stack | [Python](Data-Structures/Stack/0232_implement_queue_stack.py) | [C](Data-Structures/Stack/0232_implement_queue_stack.c) |
 | 0234 | Palindrome Linked List | Data-Structures/Linked-Lists | [Python](Data-Structures/Linked-Lists/0234_palindrome_linked_list.py) | [C](Data-Structures/Linked-Lists/0234_palindrome_linked_list.c) |
 | 0240 | Search 2D Matrix | Data-Structures/Matrix-Manipulation | [Python](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.py) | [C](Data-Structures/Matrix-Manipulation/0240_search_2D_matrix.c) |
