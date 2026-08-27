@@ -89,5 +89,8 @@ int main(void) {
     int t5[] = {-2147483648, -2147483647, 0, 2147483646, 2147483647};
     runTestCase(5, t5, sizeof(t5) / sizeof(t5[0]));
 
+    // Test 6: random
+    int t6[] = {56, 90, 101, 300, 301};
+    runTestCase(5, t6, sizeof(t6) / sizeof(t6[0]));
     return 0;
 }
