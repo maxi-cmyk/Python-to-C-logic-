@@ -19,6 +19,7 @@ TAG_MAPPING = {
     "hashing": "Data-Structures/Hashing",
     "dp": "Algorithms/Dynamic-Programming",
     "bfs": "Algorithms/Breath-First-Search",
+    "index-state-marking": "Algorithms/Index-State-Marking"
 }
 
 IGNORE_NAMES = {

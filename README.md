@@ -3,8 +3,8 @@
 This repository tracks my journey in Data Structures and Algorithms.
 I solve problems in Python to understand the logic, then translate them to C to do memory management and pointers.
 
-### 📈 Progress: 111/150
-`██████████████░░░░░░` 74.0%
+### 📈 Progress: 112/150
+`██████████████░░░░░░` 74.7%
 
 ## 📚 Problem Library
 
@@ -120,4 +120,5 @@ I solve problems in Python to understand the logic, then translate them to C to 
 | 0387 | First Unique Char | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0387_first_unique_char.py) | [C](Data-Structures/Hashing/0387_first_unique_char.c) |
 | 0401 | Binary Watch | Algorithms/Bit-Manipulation | [Python](Algorithms/Bit-Manipulation/0401_binary_watch.py) | [C](Algorithms/Bit-Manipulation/0401_binary_watch.c) |
 | 0443 | String Compression | Algorithms/Two-Pointers | [Python](Algorithms/Two-Pointers/0443_string_compression.py) | [C](Algorithms/Two-Pointers/0443_string_compression.c) |
+| 0448 | Disappered Numbers | Algorithms/Index-State-Marking | [Python](Algorithms/Index-State-Marking/0448_disappered_numbers.py) | [C](Algorithms/Index-State-Marking/0448_disappered_numbers.c) |
 | 0560 | Subarray Sum K | Data-Structures/Hashing | [Python](Data-Structures/Hashing/0560_subarray_sum_k.py) | [C](Data-Structures/Hashing/0560_subarray_sum_k.c) |
