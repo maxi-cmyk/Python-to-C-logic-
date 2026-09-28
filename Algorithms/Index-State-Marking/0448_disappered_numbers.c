@@ -22,6 +22,7 @@ int* findDisappearedNumbers (int* nums, int numsSize, int* returnSize){
     }
     int count = 0;
     for (int i = 0; i < numsSize; i++){
+        // positive indexes are missing
         if (nums[i] > 0){
             //add 1 to idx for missing value since started from zero
             res[count++] = i + 1;
