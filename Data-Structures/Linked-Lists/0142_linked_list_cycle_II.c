@@ -4,6 +4,36 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
-    return 0;
+struct ListNode {
+    int val; 
+    struct ListNode *next;
+};
+
+// returning address of cycle's starting node 
+struct ListNode *cycle (struct ListNode *head){
+    if (head == NULL || head->next == NULL){
+        return NULL;
+    }
+    // detect cycle 
+    struct ListNode *slow = head; 
+    struct ListNode *fast = head; 
+
+    while (fast != NULL && fast->next != NULL){
+        // fast ptr move twice as fast 
+        slow = slow->next; 
+        fast = fast->next->next;
+
+        // meet, cycle detected, find next meeting point 
+        // return slow 
+
+        if (slow == fast){
+            slow = head; 
+            while (slow != fast){
+                slow = slow->next; 
+                fast = fast->next;
+            }
+            return slow;
+        }
+    }
+    return NULL;
 }
